@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "unzip": "^0.1.11",
+    "unzipper": "^0.10.11"
+  }
 }
